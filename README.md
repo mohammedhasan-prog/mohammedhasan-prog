@@ -2,7 +2,7 @@
   
 # 💫 Hello World! I'm Mohammed Hasan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Electronics+%26+Communication+Student+%F0%9F%8E%93;Workflow+Automation+Enthusiast+%E2%9A%A1;Building+Scalable+Solutions+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Workflow+Automation+Enthusiast+%E2%9A%A1;Building+Scalable+Solutions+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
